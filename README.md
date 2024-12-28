@@ -16,6 +16,7 @@ Mongoose est une bibliothèque qui permet d'interagir facilement avec MongoDB.
 
 1.
 `npm install express-generator -g`
+`express myapp`
 
 2.Génère une application Express avec Twig comme moteur de rendu. Remplace <app name> par le nom de ton projet :
 `express --view=twig <app name>`
