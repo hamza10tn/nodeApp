@@ -1,4 +1,4 @@
-![Capture d'écran 2024-12-28 210346](https://github.com/user-attachments/assets/5e362090-4f07-415f-b471-5f6123cc5064)##creation manuelle d'un projet
+##creation manuelle d'un projet
 
 1. Initialiser le projet Node.js
 npm init -y
