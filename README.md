@@ -1,10 +1,11 @@
 ##creation manuelle d'un projet
 
 1. Initialiser le projet Node.js
-npm init -y
+`npm init -y`
+
 Cette commande crée un fichier package.json avec des valeurs par défaut. Ce fichier contient toutes les informations sur ton projet.
 
-2. Installer les dépendances
+3. Installer les dépendances
 Express est un framework minimaliste pour Node.js qui va nous permettre de créer des routes facilement.
 `npm install express`
 
